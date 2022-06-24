@@ -1,4 +1,4 @@
-let firstName = "Name: Ësther O. Olasupo";
+let firstName = "Name: Esther O. Olasupo";
 console.log(firstName);
 
 let height = "Height: 5ft";
